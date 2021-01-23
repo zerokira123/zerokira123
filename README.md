@@ -20,7 +20,7 @@ A prgrammer from Chennai. I Like coding and playing with them. send a "HI" on [i
 
   <img height="100" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png">
   
-  <img height="100" scrc="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png">
+  <img height="100" src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png">
 </p>
 
 #
