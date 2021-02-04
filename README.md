@@ -4,9 +4,14 @@
 
 A prgrammer from Chennai. I Like coding and playing with them. send a "HI" on [instagram][instagram] if you'd like to talk ✌️
 
-
-[![Twitter Follow](https://img.shields.io/twitter/url?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAnees__MD)][twitter]
-
+<p align="left">
+  <a href="https://github.com/zerokira123?tab=followers">
+    <img src="https://img.shields.io/github/followers/zerokira123?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/Anees__MD">
+    <img src="https://img.shields.io/twitter/follow/Anees__MD?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
 
 ### I'm Currently
 
@@ -24,9 +29,12 @@ A prgrammer from Chennai. I Like coding and playing with them. send a "HI" on [i
 </p>
 
 #
-#
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerokira123&layout=compact)][github]
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerokira123&layout=compact&langs_count=8&count_private=true&theme=tokyonight&line_height=52)][github]
+
+
+
 
 
 [homepage]: https://zerokira123.github.io/
