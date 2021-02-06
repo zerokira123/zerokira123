@@ -31,7 +31,7 @@ A prgrammer from Chennai. I Like coding and playing with them. send a "HI" on [i
 #
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerokira123&layout=compact&langs_count=10&count_private=true&theme=tokyonight&line_height=52)][github]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerokira123&layout=compact&&langs_count=10&&count_private=true&theme=tokyonight&line_height=52)][github]
 
 
 
